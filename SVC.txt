@@ -1,8 +1,0 @@
-result of SVC:
-số lương train: 22950
-hiệu quả trên tập train: 0.6183877995642701
-hiệu quả trên tập test: 0.430126628862013
-ma trận nhầm lẫn:
- [[32139 17314 45647]
- [26814 27027 38197]
- [24001 18365 69401]]
